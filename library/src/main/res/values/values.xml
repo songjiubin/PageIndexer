@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageNumberIndexer">
+        <attr name="colorActive" format="color" />
+        <attr name="colorInActive" format="color" />
+    </declare-styleable>
+    <color name="default_page_number_indexer_color_active">#77FFFFFF</color>
+    <color name="default_page_number_indexer_color_inactive">#22FFFFFF</color>
+</resources>
